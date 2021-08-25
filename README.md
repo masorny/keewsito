@@ -1,6 +1,5 @@
-![](https://cdn.discordapp.com/attachments/853264981662236683/879877516033146920/nyxugitprofile.gif)
+<hr/><img src="https://cdn.discordapp.com/attachments/853264981662236683/880161838216646656/nyxugitprofile_r.gif"><hr/>
 <!--- LANGUAGES ICONS --->
-<hr/>
 <div align="center">
   <!---<a href="https://isocpp.org/">
     <img src="https://cdn.discordapp.com/emojis/852337900851036191.png?v=1" width="30" title="C++">
@@ -22,22 +21,17 @@
     <img src="https://cdn.discordapp.com/emojis/879909973394620497.png?v=1" width="30" title="C#">
   </a>--->
 </div>
-<hr/>
 <!--- LANGUAGES ICONS END --->
 
 <!--- MAIN TEXT --->
 <div align="center">
-  <h3>Heeey!</span> <img src="https://cdn.discordapp.com/attachments/853264981662236683/879885928884236298/777389107465814047.png" width="25">✨✨</h3>
+  <h3>✨ Heeey!</span> <img src="https://cdn.discordapp.com/attachments/853264981662236683/879885928884236298/777389107465814047.png" width="25"> ✨</h3>
   <h3>My name is <code>Nyxu</code> alias <code>Tovu</code></h3>
   <p><i>Semi-junior developer</i> <img src="https://cdn.discordapp.com/attachments/853264981662236683/879924634655555604/701076279537172580.png" width="20"></p>
 </div>
 <!--- MAIN TEXT END --->
 
-<h1></h1>
-
-<div align="center"><img src="https://cdn.discordapp.com/attachments/853264981662236683/879849043528929291/0IWb7dn.gif" width="800"></div>
-
-<h2></h2>
+<hr/><div align="center"><img src="https://cdn.discordapp.com/attachments/853264981662236683/879849043528929291/0IWb7dn.gif" width="800"></div><hr/>
 
 <div align="center">
   <p><img src="https://cdn.discordapp.com/emojis/847321632305446912.png?v=1" width="15" title="Nyxu#0111"> <i>My Discord</i> <code>Nyxu#0111</code>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://cdn.discordapp.com/emojis/879931958556246066.png?v=1" width="15" title="Nyxuhist"> <i>My Twitter</i> <code>Nyxuhist</code></p>
