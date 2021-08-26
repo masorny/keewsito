@@ -31,11 +31,12 @@
 </div>
 <!--- MAIN TEXT END --->
 
-<h1></h1><div align="center"><img src="https://cdn.discordapp.com/attachments/853264981662236683/879849043528929291/0IWb7dn.gif" width="800"></div><hr/>
+<h1></h1><div align="center"><img src="https://cdn.discordapp.com/attachments/853264981662236683/879849043528929291/0IWb7dn.gif" width="800"><h1></h1>
 
 <div align="center">
   <p><img src="https://cdn.discordapp.com/emojis/847321632305446912.png?v=1" width="15" title="Nyxu#0111"> <i>My Discord</i> <code>Nyxu#0111</code>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://cdn.discordapp.com/emojis/879931958556246066.png?v=1" width="15" title="Nyxuhist"> <i>My Twitter</i> <code>Nyxuhist</code></p>
 </div>
+<hr/>
 
 <!---
 zTovu/zTovu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
