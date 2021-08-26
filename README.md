@@ -44,7 +44,7 @@
 <h1></h1>
 
 <div align="center">
-  <p><img src="https://cdn.discordapp.com/emojis/847321632305446912.png?v=1" width="15" title="Nyxu#0111"> <code>Nyxu#0111</code>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://cdn.discordapp.com/emojis/879931958556246066.png?v=1" width="15" title="Nyxuhist"> <code>Nyxuhist</code></p>
+  <h4><img src="https://cdn.discordapp.com/emojis/847321632305446912.png?v=1" width="15" title="Nyxu#0111"> <code>Nyxu#0111</code>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://cdn.discordapp.com/emojis/879931958556246066.png?v=1" width="15" title="Nyxuhist"> <code>Nyxuhist</code></h4>
 </div>
 <hr/>
 <!---
