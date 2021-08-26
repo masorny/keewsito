@@ -25,7 +25,7 @@
 
 <!--- MAIN TEXT --->
 <div align="center">
-  <h3>✨ Heeey!</span> <img src="https://cdn.discordapp.com/attachments/853264981662236683/879885928884236298/777389107465814047.png" width="25"> ✨</h3>
+  <h3><img src="https://cdn.discordapp.com/emojis/880166185713414174.gif?v=1" width="23"> Heeey!</span> <img src="https://cdn.discordapp.com/attachments/853264981662236683/879885928884236298/777389107465814047.png" width="25"> <img src="https://cdn.discordapp.com/emojis/880166185713414174.gif?v=1" width="23"></h3>
   <h3><i>My name is </i><code>Nyxu</code><i> alias </i><code>Tovu</code></h3>
   <p><i>Semi-junior developer</i> <img src="https://cdn.discordapp.com/attachments/853264981662236683/879924634655555604/701076279537172580.png" width="20"></p>
 </div>
