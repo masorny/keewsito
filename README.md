@@ -1,4 +1,4 @@
-<hr/><img src="https://cdn.discordapp.com/attachments/853264981662236683/880161838216646656/nyxugitprofile_r.gif"><hr/>
+<hr/><img src="https://cdn.discordapp.com/attachments/853264981662236683/880161838216646656/nyxugitprofile_r.gif"><h1></h1>
 <!--- LANGUAGES ICONS --->
 <div align="center" width="10">
     <!---<a href="https://isocpp.org/">
@@ -31,7 +31,7 @@
 </div>
 <!--- MAIN TEXT END --->
 
-<hr/><div align="center"><img src="https://cdn.discordapp.com/attachments/853264981662236683/879849043528929291/0IWb7dn.gif" width="800"></div><hr/>
+<h1></h1><div align="center"><img src="https://cdn.discordapp.com/attachments/853264981662236683/879849043528929291/0IWb7dn.gif" width="800"></div><hr/>
 
 <div align="center">
   <p><img src="https://cdn.discordapp.com/emojis/847321632305446912.png?v=1" width="15" title="Nyxu#0111"> <i>My Discord</i> <code>Nyxu#0111</code>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://cdn.discordapp.com/emojis/879931958556246066.png?v=1" width="15" title="Nyxuhist"> <i>My Twitter</i> <code>Nyxuhist</code></p>
