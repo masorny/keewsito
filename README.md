@@ -26,7 +26,7 @@
 <!--- MAIN TEXT --->
 <div align="center">
   <h3><img src="https://cdn.discordapp.com/emojis/880166185713414174.gif?v=1" width="23"> Heeey!</span> <img src="https://cdn.discordapp.com/attachments/853264981662236683/879885928884236298/777389107465814047.png" width="25"> <img src="https://cdn.discordapp.com/emojis/880166185713414174.gif?v=1" width="23"></h3>
-  <h3><i>My name is </i><code>Nyxu</code><i> alias </i><code>Tovu</code></h3>
+  <h3><i>My name is <code>Nyxu</code> alias <code>Tovu</code></i></h3>
   <p><i>Semi-junior developer</i> <img src="https://cdn.discordapp.com/attachments/853264981662236683/879924634655555604/701076279537172580.png" width="20"></p>
 </div>
 <!--- MAIN TEXT END --->
@@ -44,10 +44,9 @@
 <h1></h1>
 
 <div align="center">
-  <p><img src="https://cdn.discordapp.com/emojis/847321632305446912.png?v=1" width="15" title="Nyxu#0111"> <i>My Discord</i> <code>Nyxu#0111</code>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://cdn.discordapp.com/emojis/879931958556246066.png?v=1" width="15" title="Nyxuhist"> <i>My Twitter</i> <code>Nyxuhist</code></p>
+  <p><img src="https://cdn.discordapp.com/emojis/847321632305446912.png?v=1" width="15" title="Nyxu#0111"> <code>Nyxu#0111</code>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://cdn.discordapp.com/emojis/879931958556246066.png?v=1" width="15" title="Nyxuhist"> <code>Nyxuhist</code></p>
 </div>
 <hr/>
-
 <!---
 zTovu/zTovu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
