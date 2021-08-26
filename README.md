@@ -1,12 +1,12 @@
 <hr/><img src="https://cdn.discordapp.com/attachments/853264981662236683/880161838216646656/nyxugitprofile_r.gif"><h1></h1>
 <!--- LANGUAGES ICONS --->
 <div align="center" width="10">
-    <!---<a href="https://isocpp.org/">
+    <a href="https://isocpp.org/">
       <img src="https://cdn.discordapp.com/emojis/852337900851036191.png?v=1" width="30" title="C++">
-    </a>--->
+    </a>
   &nbsp&nbsp&nbsp&nbsp
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-      <img src="https://cdn.discordapp.com/emojis/852339811910287370.png?v=1" width="45" title="C#">
+    <a href="https://www.javascript.com/">
+      <img src="https://cdn.discordapp.com/emojis/880446269141692477.png?v=1" width="45" title="JavaScript">
     </a>
   &nbsp&nbsp&nbsp&nbsp
     <a href="https://nodejs.org/">
@@ -16,10 +16,10 @@
     <a href="https://www.python.org/">
       <img src="https://cdn.discordapp.com/emojis/879858330753978408.png?v=1" width="45" title="Python">
     </a>
-    <!---&nbsp&nbsp&nbsp&nbsp
-      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-        <img src="https://cdn.discordapp.com/emojis/879909973394620497.png?v=1" width="30" title="C#">
-      </a>--->
+  &nbsp&nbsp&nbsp&nbsp
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+      <img src="https://cdn.discordapp.com/emojis/852339811910287370.png?v=1" width="30" title="C#">
+    </a>
 </div>
 <!--- LANGUAGES ICONS END --->
 
@@ -44,7 +44,13 @@
 <h1></h1>
 
 <div align="center">
-  <h4><img src="https://cdn.discordapp.com/emojis/847321632305446912.png?v=1" width="15" title="Nyxu#0111"> <code>Nyxu#0111</code>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://cdn.discordapp.com/emojis/879931958556246066.png?v=1" width="15" title="Nyxuhist"> <code>Nyxuhist</code></h4>
+  <h4>
+    <code><img src="https://cdn.discordapp.com/emojis/847321632305446912.png?v=1" width="22" title="Nyxu#0111"> Nyxu#0111</code>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+    <a href="https://twitter.com/Nyxuhist">
+        <code><img src="https://cdn.discordapp.com/emojis/879931958556246066.png?v=1" width="22" title="Nyxuhist"> Nyxuhist</code>
+    </a>
+  </h4>
 </div>
 <hr/>
 <!---
