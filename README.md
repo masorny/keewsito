@@ -43,7 +43,7 @@
 
 <div align="center">
   <h4>
-    <code><img src="https://cdn.discordapp.com/emojis/847321632305446912.png?v=1" width="22" title="Nyxu#0111"> Nyxu#0111</code>
+    <code><img src="https://cdn.discordapp.com/emojis/847321632305446912.png?v=1" width="22" title="Keew#0111"> Nyxu#0111</code>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
     <a href="https://twitter.com/Nyxuhist">
         <code><img src="https://cdn.discordapp.com/emojis/879931958556246066.png?v=1" width="22" title="Nyxuhist"> Nyxuhist</code>
