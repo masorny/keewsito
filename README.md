@@ -34,10 +34,8 @@
 <!---<h1></h1><div align="center"><img src="https://cdn.discordapp.com/attachments/853264981662236683/879849043528929291/0IWb7dn.gif" width="800"><h1></h1>--->
 <div align="center">
     <br>
-    <!---
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyxuhist&theme=radical&hide_border=true&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyxuhist&layout=compact&theme=radical&hide_border=true">
     <br><br>
-    --->
     <img src="https://github-readme-stats.vercel.app/api?username=Nyxuhist&count_private=true&hide_border=true&theme=radical">
     <br>
 </div>
