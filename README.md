@@ -1,4 +1,4 @@
-<hr/><img src="https://cdn.discordapp.com/attachments/853264981662236683/880161838216646656/nyxugitprofile_r.gif"><h1></h1>
+<hr/><div align="center"><img src="https://cdn.discordapp.com/attachments/931972460868415508/1083245054434496552/logoname.png" width="500"></div><h1></h1>
 <!--- LANGUAGES ICONS --->
 <div align="center" width="10">
     <a href="https://isocpp.org/">
